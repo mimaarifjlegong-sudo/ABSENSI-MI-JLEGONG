@@ -2,7 +2,7 @@
 // URL GOOGLE APPS SCRIPT
 //=================================================
 
-const URL_WEB_APP = "https://script.google.com/macros/s/AKfycbzVICKrM-H37G3PSEzTnKAyOtSUmD2omTuSQtYa-da01w-3xF6U_mRPHRcLP5QJrdCg/exec";
+const URL_WEB_APP = "https://script.google.com/macros/s/AKfycbyzNHjhOKRx2S7115M5ZFvEM0kr1rgFVv4AgIRneXqrls34ZpDan8upcx9X6Uh4083a/exec";
 
 
 //=================================================
@@ -19,6 +19,8 @@ const guru = [
 {username:"umi",password:"12345",nama:"Umi Kotijah"},
 {username:"nur",password:"12345",nama:"Nur Chamida Sania"},
 {username:"joko",password:"12345",nama:"Joko Lestiyo"},
+{username:"maryono",password:"12345",nama:"Maryono"},
+{username:"tarmuji",password:"12345",nama:"Tarmuji"},
 
 
 ];
